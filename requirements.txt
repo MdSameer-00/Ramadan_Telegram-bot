@@ -1,3 +1,6 @@
 aiogram
 requests
 python-dotenv
+asyncio
+json
+aiogram.filters
